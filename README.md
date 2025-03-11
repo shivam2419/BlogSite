@@ -6,9 +6,10 @@ BlogSite is a Django-based blogging platform that allows users to create, edit, 
 
 - **User Authentication**: Sign up, log in, and log out.
 - **Blog Creation**: Users can create, edit, and delete blog posts.
-- **Comment Section**: Users can comment on blog posts.
+- **Comment/Like Section**: Users can comment and like on blog posts.
 - **Responsive Design**: The site is fully responsive, adapting to both mobile and desktop screens.
 - **Admin Interface**: Manage blog posts and users via Django’s built-in admin interface.
+- **JWT Authentication**: Used JWT tokens for authorization and authentication of users.
 
 ## Requirements
 
